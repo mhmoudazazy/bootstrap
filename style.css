@@ -1,0 +1,16 @@
+
+        body {
+            overflow-x: hidden; }
+    
+        .header {
+            padding: 0; 
+        }
+    
+        .row {
+            margin: 0; 
+        }
+    
+        section img {
+            max-width: 100%; 
+        }
+    
